@@ -37,5 +37,6 @@ Your work life has "sessions", ranging in both moods & nature, and times & place
   - As you complete things, feel the joy of checking them off, you did it.
   - add/remove/modify this list to your hearts content.
 
-**Step 5:** Add things here when they ...
+**Step 5:** When you're done working for the session (hour(s), day(s), etc), move everything back into the ***TODO*** section.
 
+**Rinse & Repeat**
